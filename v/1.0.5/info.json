@@ -1,0 +1,16 @@
+{
+    "name": "Minecraft: Pocket Edition 1.0.5",
+    "type": "release",
+    "platforms": [
+        "Android",
+        "iOS",
+        "UWP"
+    ],
+    "release_dates": {
+        "Android": "",
+        "UWP": ""
+    },
+    "has_realms": true,
+    "changelog_url": "http://peapi.thediamondyt.tk/v/1.0.5/changelog.json",
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.0.5"
+}

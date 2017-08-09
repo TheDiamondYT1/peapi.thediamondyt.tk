@@ -1,0 +1,19 @@
+{
+    "name": "Minecraft: Pocket Edition alpha 0.7.4",
+    "type": "alpha",
+    "platforms": [
+        "Android",
+        "FireOS",
+        "iOS"
+    ],
+    "release_dates": {
+        "Android": "September 2, 2013",
+        "FireOS": "August 31, 2013",
+        "iOS": "September 2, 2013"
+    },
+    "has_old_realms": true,
+    "changelog_url": "http://peapi.thediamondyt.tk/v/0.7.4/changelog.json",
+    "protocol_url": "http://peapi.thediamondyt.tk/v/0.7.4/protocol.json",
+    "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.7.4",
+    "notes": "The first version to support custom external servers."
+}

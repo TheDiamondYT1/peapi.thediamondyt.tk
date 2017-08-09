@@ -1,0 +1,15 @@
+{
+    "name": "Minecraft: Pocket Edition alpha 0.2.1",
+    "type": "alpha",
+    "platforms": [
+        "Android",
+        "iOS"
+    ],
+    "release_dates": {
+        "Android": "March 14, 2012",
+        "iOS": "March 14, 2012"
+    },
+    "has_realms": false,
+    "changelog_url": "http://peapi.thediamondyt.tk/v/0.2.1/changelog.json",
+    "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.1"
+}

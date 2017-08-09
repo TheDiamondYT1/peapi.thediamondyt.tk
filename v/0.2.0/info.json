@@ -1,0 +1,17 @@
+{
+    "name": "Minecraft: Pocket Edition alpha 0.2.0",
+    "type": "alpha",
+    "platforms": [
+        "Android",
+        "iOS"
+    ],
+    "release_dates": {
+        "Android": "February 12, 2012",
+        "iOS": "February 17, 2012"
+    },
+    "has_realms": false,
+    "changelog_url": "http://peapi.thediamondyt.tk/v/0.2.0/changelog.json",
+    "protocol_url": "http://peapi.thediamondyt.tk/v/0.2.0/protocol.json",
+    "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.0",
+    "notes": "Alpha 0.2.0 was reuploaded later on February 11, 2012 to fix a major bug where some phones crashed while trying to create a new world."
+}

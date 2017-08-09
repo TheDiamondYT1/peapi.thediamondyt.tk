@@ -1,0 +1,14 @@
+{
+    "source": "https://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.1",
+    "additions": [
+        "Added bookshelves in creative mode",
+        "Added Split Touch controls"
+    ],
+    "changes": [
+        "Bigger screens have more hotbar icons",
+        "Blocks now have 'cracking' animation when destroying them",
+        "The circle shown when breaking blocks is sharper",
+        "Pigs now spawn naturally",
+        "Flying is changed; ascend/descend by sliding from the center button to the up/down button"
+    ]
+}
