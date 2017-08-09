@@ -13,5 +13,6 @@
     },
     "has_realms": true
     "changelog_url": "http://peapi.thediamondyt.tk/v/1.2.0.7/changelog.json",
-    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_2"
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_2",
+    "summary": "1.2 build 2 is the second build released for 1.2 that fixes bugs."
 }

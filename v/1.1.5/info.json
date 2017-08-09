@@ -1,0 +1,26 @@
+{
+    "name": "Minecraft: Pocket Edition 1.1.5",
+    "type": "release",
+    "platforms": [
+        "Android",
+        "iOS",
+        "UWP",
+        "FireOS",
+        "FireTV",
+        "AppleTV",
+        "GearVR"
+    ],
+    "release_dates": {
+        "Android": "August 3, 2017",
+        "iOS": "August 3, 2017",
+        "UWP": "August 3, 2017",
+        "FireTV": "August 3, 2017",
+        "GearVR": "August 3, 2017",
+        "FireOS": "August 1, 2017",
+        "AppleTV": "August 7, 2017"
+    },
+    "has_realms": true,
+    "changelog_url": "http://peapi.thediamondyt.tk/v/1.1.5/changelog.json",
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.1.5",
+    "summary": "1.1.5 is an update for 1.1 which added new and updated existing Marketplace content as well as fixing several bugs."
+}
