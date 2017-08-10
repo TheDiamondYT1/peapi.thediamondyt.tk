@@ -1,0 +1,29 @@
+{
+    "source": "https://minecraft.gamepedia.com/Pocket_Edition_1.1.4",
+    "additions": [
+        {
+            "text": "Added Battle & Beasts Skin Pack",
+            "type": "marketplace"
+        },
+        {
+            "text": "Added Pet Skin Pack",
+            "type": "marketplace"
+        },
+        {
+            "text": "Added Cyber Space Skin Pack",
+            "type": "marketplace"
+        }
+    ],
+    "fixes": [
+        {
+            "text": "Fixed lag when accessing resource packs",
+            "platforms": ["Android"]
+        },
+        {
+            "text": "Fixed some crashes occurring when launching the game"
+        },
+        {
+            "text": "Fixed a crash when loading into a world while holding a compass or clock"
+        }
+    ]
+}

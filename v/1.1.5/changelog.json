@@ -1,0 +1,40 @@
+{
+    "source": "https://minecraft.gamepedia.com/Pocket_Edition_1.1.5",
+    "additions": [
+        {
+            "text": "Added Steampunk Texture Pack",
+            "type": "marketplace"
+        },
+        {
+            "text": "Added Infinity Dungeon EX",
+            "type": "marketplace",
+            "creator": "Jigarbov"
+        },
+        {
+            "text": "Added Survivors Skin Pack",
+            "type": "marketplace",
+            "creator": "Eneija"
+        },
+        {
+            "text": "Added Kings and Paupers Skin Pack",
+            "type": "marketplace",
+            "creator": "Razzleberry Fox"
+        },
+        {
+            "text": "Added Sports Skin Pack",
+            "type": "marketplace",
+            "creator": "Razzleberry Fox"
+        },
+        {
+            "text": "Added Summer Festival Skin Pack",
+            "type": "marketplace",
+            "creator": "Noxcrew"
+        }
+    ],
+    "changes": [
+        {
+            "text": "Updates to PureBDCraft",
+            "type": "marketplace"
+        }
+    ]
+}

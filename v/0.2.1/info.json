@@ -11,5 +11,6 @@
     },
     "has_realms": false,
     "changelog_url": "http://peapi.thediamondyt.tk/v/0.2.1/changelog.json",
-    "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.1"
+    "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.1",
+    "summary": "Alpha 0.2.1 added new control options, as well as other changes and fixes."
 }

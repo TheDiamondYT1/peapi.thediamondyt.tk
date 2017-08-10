@@ -12,8 +12,8 @@
         "iOS": "September 2, 2013"
     },
     "has_old_realms": true,
-    "changelog_url": "http://peapi.thediamondyt.tk/v/0.7.4/changelog.json",
     "protocol_url": "http://peapi.thediamondyt.tk/v/0.7.4/protocol.json",
     "wiki_url": "http://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.7.4",
-    "notes": "The first version to support custom external servers."
+    "summary": "Alpha 0.7.4 was mainly released to fix some of the bugs and crashes in Alpha 0.7.3.",
+    "notes": "Alpha 0.7.4 was the first version to support custom external servers."
 }

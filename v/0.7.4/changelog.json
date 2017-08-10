@@ -1,37 +1,105 @@
 {
     "source": "https://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.7.4",
     "additions": [
-        "Added an 'External' button in the edit section of world create menu, for IP-connecting to servers",
-        "Added a very faint sound when tools break, as well as a sound when flint and steel is used",
-        "Tapping and holding flint and steel on a creeper will cause the creeper to start explosion countdown",
-        "Added support for commands, however when attempting to use any command 'Error: Command not found' displays",
-        "Added chiseled quartz to survival mode",
-        "The moon now has different phases"
+        {
+            "text": "Added an 'External' button in the edit section of world create menu, for IP-connecting to servers"
+        },
+        {
+            "text": "Added a very faint sound when tools break, as well as a sound when flint and steel is used"
+        },
+        {
+            "text": "Tapping and holding flint and steel on a creeper will cause the creeper to start explosion countdown"
+        },
+        {
+            "text": "Added support for commands, however when attempting to use any command 'Error: Command not found' displays"
+        },
+        {
+            "text": "Added chiseled quartz to survival mode"
+        },
+        {
+            "text": "The moon now has different phases"
+        }
     ],
     "changes": [
-        "Clouds are now slightly darker, to correspond to the cloud color in PC",
-        "The orbit size of the sun and moon around the player has been increased, fixing a sun and moon size problem, as well as the sun appearing in front of the clouds",
-        "After eating food, a burp can be heard",
-        "Eggs can be thrown rapidly if you keep on tapping and holding the screen in both creative and survival",
-        "Each message displayed by the server now has a tag (e.g. 'Disconnected from server' now reads '<error> Disconnected from server')",
-        "Flint and steel now produces sound when used",
-        "Fire now has idle sounds when the player is within proximity"
+        {
+            "text": "Clouds are now slightly darker, to correspond to the cloud color in PC"
+        },
+        {
+            "text": "The orbit size of the sun and moon around the player has been increased, fixing a sun and moon size problem, as well as the sun appearing in front of the clouds"
+        },
+        {
+            "text": "After eating food, a burp can be heard"
+        },
+        {
+            "text": "Eggs can be thrown rapidly if you keep on tapping and holding the screen in both creative and survival"
+        },
+        {
+            "text": "Each message displayed by the server now has a tag (e.g. 'Disconnected from server' now reads '<error> Disconnected from server')"
+        },
+        {
+            "text": "Flint and steel now produces sound when used"
+        },
+        {
+            "text": "Fire now has idle sounds when the player is within proximity"
+        }
     ],
     "fixes": [
-        "MCPE-4926: The Splash now changes every time a world is quit",
-        "MCPE-4925: The sun now disappears during night and vice versa",
-        "MCPE-156: After eating one food item, player starts breaking things with food",
-        "MCPE-228: Top half a door can replace a non-air block",
-        "MCPE-480: The crafting menu don't show numbers for damaged tools!",
-        "MCPE-754: Respawning at the edge of the world",
-        "MCPE-1022: Player can eat extra food while moving",
-        "MCPE-1221: Uncraftable quartz items",
-        "MCPE-1222: Missing name for quartz stairs",
-        "MCPE-1615: No Sandstone stairs in survival mode",
-        "MCPE-1667: Armour and Health Icons obstruct sign menu",
-        "MCPE-1709: the armor does not drop when you die",
-        "MCPE-1715: Signs don't drop as items",
-        "MCPE-1743: Cannot destroy signs",
+        {
+            "text": "The Splash now changes every time a world is quit",
+            "id": "MCPE-4926"
+        },
+        {
+            "text": "The sun now disappears during night and vice versa",
+            "id": "MCPE-4925"
+        },
+        {
+            "text": "After eating one food item, player starts breaking things with food",
+            "id": "MCPE-156"
+        },
+        {
+            "text": "Top half a door can replace a non-air block",
+            "id": "MCPE-228"
+        },
+        {
+            "text": "The crafting menu don't show numbers for damaged tools!",
+            "id": "MCPE-480"
+        },
+        {
+            "text": Respawning at the edge of the world",
+            "id": "MCPE-754"
+        },
+        {
+            "text": "Player can eat extra food while moving",
+            "id": "MCPE-1022"
+        },
+        {
+            "text": "Uncraftable quartz items",
+            "id": "MCPE-1221"
+        },
+        {
+            "text": Missing name for quartz stairs",
+            "id": "MCPE-1222"
+        },
+        {
+            "text": "No Sandstone stairs in survival mode",
+            "id": "MCPE-1615"
+        },
+        {
+            "text": "Armour and Health Icons obstruct sign menu",
+            "id": "MCPE-1667"
+        },
+        {
+            "text": "Armour does not drop when you die",
+            "id": "MCPE-1709"
+        },
+        {
+            "text": "Signs don't drop as items",
+            "id": "MCPE-1715"
+        },
+        {
+            "text": "Cannot destroy signs",
+            "id": "MCPE-1743"
+        },
         "MCPE-1771: I have two furnaces and one of the when I tap on it to cook food and stuff it will crash and when I try to break it, it also will crash",
         "MCPE-1853: Mushroom farming is not working",
         "MCPE-1955: Text on Signs is weird / Sign letters are erased when you write numbers or exclamation marks",

@@ -1,5 +1,5 @@
 {
-    "name": "Minecraft: Pocket Edition 1.2 build 3",
+    "name": "Minecraft 1.2 build 3",
     "codename": "The Better Together Update",
     "type": "snapshot",
     "for_release": "1.2.0",
@@ -14,5 +14,6 @@
     "has_realms": true,
     "changelog_url": "http://peapi.thediamondyt.tk/v/1.2.0.9/changelog.json",
     "protocol_url": "http://peapi.thediamondyt.tk/v/1.2.0.9/protocol.json",
-    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_3"
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_3",
+    "summary": "1.2 build 3 is the third build released for 1.2 that fixes bugs."
 }

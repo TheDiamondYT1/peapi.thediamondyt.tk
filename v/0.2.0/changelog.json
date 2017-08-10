@@ -1,21 +1,49 @@
 {
     "source": "https://minecraft.gamepedia.com/Pocket_Edition_Alpha_0.2.0",
     "additions": [
-        "Added Creative mode with the ability to iniate flight by double tapping the jump button and double tap and hold up or down to ascend or descend respectively",
-        "Added Survival mode, however crafting was not included",
-        "Added a day-night cycle",
-        "Added health bar that will slowly regenerate",
-        "Added oxygen bar when underwater and the ability to drown and die",
-        "Added Death with options to respawn or go to main menu",
-        "Added Sheep",
-        "Added Zombies that can also spawn at night",
-        "Added Pigs that are unable to spawn naturally",
-        "Added Fence and Fence Gate",
-        "Added Stone Sword, Pickaxe, Axe and Shovel",
-        "Added Shears (requires tapping and holding on the sheep, similar to breaking a block. Simply tapping on it hurts the sheep and eventually kills it (8 hits))"
+        {
+            "text": "Added Creative mode with the ability to initiate flight by double tapping the jump button and double tap and hold up or down to ascend or descend respectively"
+        },
+        {
+            "text": "Added Survival mode, however crafting was not included"
+        },
+        {
+            "text": "Added a day-night cycle"
+        },
+        {
+            "text": "Added health bar that will slowly regenerate"
+        },
+        {
+            "text": "Added oxygen bar when underwater and the ability to drown and die"
+        },
+        {
+            "text": "Added Death with options to respawn or go to main menu"
+        },
+        {
+            "text": "Added Sheep"
+        },
+        {
+            "text": "Added Zombies that can also spawn at night"
+        },
+        {
+            "text": "Added Pigs that are unable to spawn naturally"
+        },
+        {
+            "text": "Added Fence and Fence Gate"
+        },
+        {
+            "text": "Added Stone Sword, Pickaxe, Axe and Shovel"
+        },
+        {
+            "text": "Added Shears (requires tapping and holding on the sheep, similar to breaking a block. Simply tapping on it hurts the sheep and eventually kills it (8 hits))"
+        }
     ],
     "changes": [
-        "When an item that has not been gathered is selected, the player's fist is shown.",
-        "Spruce trees now spawn"
+        {
+            "text": "When an item that has not been gathered is selected, the player's fist is shown"
+        },
+        {
+            "text": "Spruce trees now spawn"
+        }
     ]
 }

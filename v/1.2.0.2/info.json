@@ -1,0 +1,17 @@
+{
+    "name": "Minecraft 1.2 build 1",
+    "codename": "The Better Together Update",
+    "type": "snapshot",
+    "for_release": "1.2.0",
+    "platforms": [
+        "Android",
+        "UWP"
+    ],
+    "release_dates": {
+        "Android": "",
+        "UWP": ""
+    },
+    "has_realms": true,
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_1",
+    "summary": "1.2 build 1 is the first build released for 1.2 that adds new features and fixes many previous issues."
+}
