@@ -1,32 +1,82 @@
 {
     "source": "https://feedback.minecraft.net/knowledgebase/articles/1194307-minecraft-win10-android-beta-1-2-build-1",
     "additions": [
-        "Stained Glass",
-        "Fireworks (with Elytra boosting!)",
-        "Parrots",
-        "Banners",
-        "Armor Stands",
-        "Jukebox and music discs",
-        "Recipe Book",
-        "Book and Quill",
-        "Ravines",
-        "Coarse Dirt",
-        "Starting Map",
-        "Bonus Chest",
-        "Trust Players feature",
-        "TNT Explodes gamerule",
-        "Natural Regeneration gamerule",
-        "Added '/tickingarea' command to create areas that still update when no players are there",
-        "Player permissions",
-        "Zombie Villager spawn egg",
-        "In-game host options",
-        "New loading screens with funny and helpful tips",
-        "How to Play screen like on console",
-        "Remix 3D export functionality (Windows 10 only)",
-        "Underwater particles"
+        {
+            "text": "Added Stained Glass"
+        },
+        {
+            "text": "Added Fireworks",
+            "extras": ["Elytra boosting"]
+        },
+        {
+            "text": "Added Parrots"
+        },
+        {
+            "text": "Added Banners"
+        },
+        {
+            "text": "Added Armor Stands"
+        },
+        {
+            "text": "Added Jukebox and music discs"
+        },
+        {
+            "text": "Added Recipe Book"
+        },
+        {
+            "text": "Added Book and Quill"
+        },
+        {
+            "text": "Added Ravines"
+        },
+        {
+            "text": "Added Coarse Dirt"
+        },
+        {
+            "text": "Added Starting Map"
+        },
+        {
+            "text": "Added Bonus Chest"
+        },
+        {
+            "text": "Added Trust Players feature"
+        },
+        {
+            "text": "Added TNT Explodes gamerule"
+        },
+        {
+            "text": "Added Natural Regeneration gamerule"
+        },
+        {
+            "text": "Added '/tickingarea' command to create areas that still update when no players are there"
+        },
+        {
+            "text": "Added Player permissions"
+        },
+        {
+            "text": "Added Zombie Villager spawn egg"
+        },
+        {
+            "text": "Added In-game host options"
+        },
+        {
+            "text": "Added new loading screens with funny and helpful tips"
+        },
+        {
+            "text": "Added How to Play screen like on console edition"
+        },
+        {
+            "text": "Added Remix 3D export functionality",
+            "platforms": ["UWP"]
+        },
+        {
+            "text": "Added Underwater particles"
+        }
     ],
     "changes": [
-        "Blaze Powder is now needed to fuel brewing stands",
+        {
+            "text": "Blaze Powder is now needed to fuel brewing stands"
+        },
         "Ice blocks are now transparent",
         "Maps can now be held off-hand and show the heads of players' skins",
         "Locator maps now track the owner's position, regardless of dimension",

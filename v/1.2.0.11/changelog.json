@@ -1,0 +1,14 @@
+{
+    "source": "",
+    "changes": [
+        {
+            "text": "Clicking the left thumb stick on a controller will now switch focus between the Recipe Book and the inventory"
+        },
+        {
+            "text": "Added item animations to the Recipe Book to show which items are being used for crafting"
+        },
+        {
+            "text": "Default controller sensitivity has been increased to 60"
+        }
+    ]
+}

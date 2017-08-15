@@ -1,0 +1,17 @@
+{
+    "name": "Minecraft 1.2 build 5",
+    "codename": "The Better Together Update",
+    "type": "snapshot",
+    "for_release": "1.2.0",
+    "platforms": [
+        "Android",
+        "UWP"
+    ],
+    "release_dates": {
+        "Android": "August 14, 2017",
+        "UWP": "August 14, 2017"
+    },
+    "has_realms": true,
+    "wiki_url": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_5",
+    "summary": "1.2 build 5 is the fifth build released for 1.2 that fixes bugs."
+}

@@ -1,5 +1,5 @@
 {
-    "source": "https://minecraft.gamepedia.com/Pocket_Edition_1.2_build_3",
+    "source": "https://feedback.minecraft.net/knowledgebase/articles/1197148-minecraft-win-10-android-beta-1-2-build-3",
     "fixes": [
         {
             "text": "Nametags should again work as expected",
@@ -10,3 +10,4 @@
         }
     ]
 }
+
